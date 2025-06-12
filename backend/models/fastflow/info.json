@@ -1,0 +1,8 @@
+{
+  "id": "fastflow",
+  "name": "FastFlow",
+  "description": "FastFlow, denetimsiz anomali tespiti ve konumlandırma için geliştirilmiş, hızlı ve yüksek doğruluklu bir derin öğrenme yöntemidir. ResNet ve Vision Transformer gibi modellerle entegre çalışabilen bu sistem, görüntü özelliklerini istatistiksel olarak anlamlandırarak anormal bölgeleri yüksek hassasiyetle belirler. 2D normalizing flow altyapısıyla çalışan FastFlow, MVTec AD veri setinde %99.4 AUC başarısı göstererek mevcut yöntemleri geride bırakmıştır. Veri etiketlemenin zor olduğu durumlarda, güvenilir ve verimli bir çözüm sunar.Buradaki çalışmada model, Wood sınıfına ait 70 adet good görüntüyle eğitilmiştir.",
+  "paper_url": "https://arxiv.org/pdf/2111.07677v2",
+  "authors": ["Jiawei Yu", " Xiang Wang", "SenseTime Research"],
+  "year": 2021
+}

@@ -1,0 +1,7 @@
+# densenet121_optimized.yaml
+input_size: 256
+backbone_name: "densenet121"
+flow_step: 12  # Optimum flow step
+hidden_ratio: 1.3   
+conv3x3_only: True  # Preserves textural properties
+out_indices: [0,1,2,3]  # Use all scales (for textural and structural anomalies)

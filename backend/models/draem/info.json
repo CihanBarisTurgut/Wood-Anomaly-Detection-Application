@@ -1,0 +1,8 @@
+{
+  "id": "draem",
+  "name": "DRAEM",
+  "description": "DRAEM, yüzeysel görüntü anomalilerini tespit etmek için geliştirilmiş, güçlü ve esnek bir derin öğrenme modelidir. Yalnızca normal görüntülerle eğitilen bu yöntem, anormal bölgeleri tespit etmek için hem yeniden yapılandırma hem de ayrıştırma (discriminative) yaklaşımını birleştirir. DRAEM, anormal bir görüntü ile onun normal halinin ortak temsilini öğrenerek, karmaşık işlem adımlarına ihtiyaç duymadan doğrudan anomali bölgesini belirleyebilir. Basit anomalilik simülasyonlarıyla eğitilebilen bu model, MVTec ve DAGM veri setlerinde üstün performans göstererek hem denetimsiz yöntemleri açık ara geçmekte hem de denetimli yöntemlerle yarışabilecek seviyeye ulaşmaktadır.Buradaki çalışmada model, Wood sınıfına ait 70 adet good görüntüyle eğitilmiştir. Anomali kaynağı olarak da yine aynı veriseti kullanılmıştır.",
+  "paper_url": "https://arxiv.org/pdf/2108.07610v2",
+  "authors": ["Vitjan Zavrtanik", "Matej Kristan", "Danijel Skočaj"],
+  "year": 2021
+}

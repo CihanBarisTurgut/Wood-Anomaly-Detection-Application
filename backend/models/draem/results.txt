@@ -1,0 +1,10 @@
+Image AUROC: 0.9219
+Image AP: 0.8752
+Image F1: 0.8936
+Image Accuracy: 0.8936
+Image Threshold: 0.2961
+Pixel AUROC: 0.8590
+Pixel AP: 0.3198
+Pixel F1: 0.4320
+Pixel Accuracy: 0.9841
+Mean IoU: 0.4165

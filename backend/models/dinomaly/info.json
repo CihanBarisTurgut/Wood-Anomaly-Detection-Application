@@ -1,0 +1,8 @@
+{
+  "id": "dinomaly",
+  "name": "Dinomaly",
+  "description": "DinomaLy, çok sınıflı görüntülerde denetimsiz anomali tespiti için geliştirilen sade ama güçlü bir Transformer tabanlı modeldir. Hiçbir karmaşık yapı, ek modül ya da özel hile kullanmadan sadece Attention ve MLP katmanlarıyla çalışır. Model, çok sınıflı anomali tespiti için evrensel ve ayırt edici özellikler çıkaran Transformer altyapısını, doğal olarak odaklanamayan lineer attention’ı, gürültü enjeksiyonunu dropout ile sağlayan dar boğazı ve katı olmayan yeniden yapılandırma yaklaşımını bir araya getirir. MVTec-AD, VisA ve Real-IAD veri setlerinde sırasıyla %99.6, %98.7 ve %89.3 AUROC başarısıyla hem çok sınıflı hem de sınıf ayrımlı modeller arasında en güçlü performansı sunar. Buradaki çalışmada model, Wood sınıfına ait 70 adet good görüntüyle eğitilmiştir.",
+  "paper_url": "https://arxiv.org/pdf/2405.14325v4",
+  "authors": ["Jia Guo", "Shuai Lu", "Weihang Zhang"],
+  "year": 2024
+}
