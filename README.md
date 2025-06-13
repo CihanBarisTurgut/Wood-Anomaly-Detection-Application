@@ -69,6 +69,16 @@ And images from the app.
 
 ![MainPage](https://github.com/user-attachments/assets/379498d5-2b85-4f34-ac96-3102b89de167)
 
+![image](https://github.com/user-attachments/assets/d12af493-b9cc-4a23-87af-aac605cba073)
+
+![image](https://github.com/user-attachments/assets/3bbbeaa3-735c-4867-a178-6d27b008ca21)
+
+![image](https://github.com/user-attachments/assets/d624247e-1b10-41f5-861e-59367b9a20b6)
+
+![image](https://github.com/user-attachments/assets/a899b923-71be-4226-860b-aec6d8b58142)
+
+
+
 
 
 
