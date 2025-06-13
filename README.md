@@ -3,6 +3,7 @@ React is used in the front end of this project and Python Flask is used in the b
 
 *DRAEM*, *FastFlow* and *Dinomaly* models were trained specifically for the wood class in the MVTec AD dataset.
 
+I would also like to thank the creators of the three models for their contributions.
 You can find the sources and articles of these models from the link below. **https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad**
 
 You need to download the model files of each model, previously trained in Colab for 20 minutes, from the link below and upload them to the folders, for example backend/models/dinomaly etc.
@@ -20,8 +21,10 @@ To run the frontend, you must open a new terminal, go to the frontend folder wit
 Your application is READY!
 
 The models were trained on a private wood dataset that belongs to my lecturer. You can find this dataset in the models folder.
+The images in the dataset were manually cropped to remove unnecessary backgrounds. For training, they were resized to 256 pixels for DRAEM and FastFlow, and 266 pixels for Dinomaly.
 
 The metrics of the models are as follows.
+
 ### 📊 Dinomaly 
 
 | Metric               | Image Score | Pixel Score |
