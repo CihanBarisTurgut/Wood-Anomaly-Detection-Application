@@ -6,7 +6,7 @@ React is used in the front end of this project and Python Flask is used in the b
 You can find the sources and articles of these models from the link below. **https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad**
 
 You need to download the model files of each model, previously trained in Colab for 20 minutes, from the link below and upload them to the folders, for example backend/models/dinomaly etc.
-**https://drive.google.com/drive/folders/1-QmhTs3Lz_Gcvce4H9xoEbRdk_lJXwqO?usp=sharing**
+**[https://drive.google.com/drive/folders/1-QmhTs3Lz_Gcvce4H9xoEbRdk_lJXwqO?usp=sharing](https://drive.google.com/drive/folders/1-QmhTs3Lz_Gcvce4H9xoEbRdk_lJXwqO?usp=sharing)**
 
 To run this application, you must have *node.js* and *python 3.10.0* on your computer.
 
@@ -19,7 +19,7 @@ To run the frontend, you must open a new terminal, go to the frontend folder wit
 
 Your application is READY!
 
-The models were trained on a private wood dataset that belongs to my lecturer.
+The models were trained on a private wood dataset that belongs to my lecturer. You can find this dataset in the models folder.
 
 The metrics of the models are as follows.
 ### 📊 Dinomaly 
