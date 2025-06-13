@@ -14,7 +14,10 @@ You must go to the backend folder with the cd backend command. Install the neces
 **pip install -r requirements.txt**
 Then you should run the backend with the **python app.py** command.
 
-To run the frontend, you must open a new terminal, with the **cd frontend** command, call the **npm start** command.
+To run the frontend, you must open a new terminal, go to the frontend folder with the **cd frontend** command, call the **npm start** command.
+
+
+Your application is READY!
 
 
 
