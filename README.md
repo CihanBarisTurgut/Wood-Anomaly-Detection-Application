@@ -46,6 +46,8 @@ The metrics of the models are as follows.
 | Threshold            | -0.2314     | -           |
 | Mean IoU             | -           | 0.5107      |
 
+![An example output for FastFlow](./backend/results/fastflow/100100038_fastflow__result.png)
+
 ### 🧠 DRAEM 
 
 | Metric               | Image Score | Pixel Score |
@@ -56,6 +58,8 @@ The metrics of the models are as follows.
 | Accuracy             | 0.8936      | 0.9841      |
 | Threshold            | 0.2961      | -           |
 | Mean IoU             | -           | 0.4165      |
+
+![An example output for DRAEM](./backend/results/draem/100100035_draem__result.png)
 
 
 
