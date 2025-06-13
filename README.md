@@ -65,6 +65,12 @@ The metrics of the models are as follows.
 ![An example output for DRAEM](./backend/results/draem/100100035_draem__result.png)
 
 
+And images from the app.
+
+![MainPage](https://github.com/user-attachments/assets/379498d5-2b85-4f34-ac96-3102b89de167)
+
+
+
 
 
 
