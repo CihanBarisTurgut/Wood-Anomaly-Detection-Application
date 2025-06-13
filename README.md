@@ -33,7 +33,7 @@ The metrics of the models are as follows.
 | Threshold            | 0.7400      | -           |
 | Mean IoU             | -           | 0.1520      |
 
-[An example output for Dinomaly](./backend/results/dinomaly/100100026_dinomaly_combined_result.png)
+![An example output for Dinomaly](./backend/results/dinomaly/100100026_dinomaly_combined_result.png)
 
 ### ⚡ FastFlow 
 
